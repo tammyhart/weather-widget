@@ -6,6 +6,24 @@ A basic weather fetching widget.
 
 - **Create React App:** A quick way to spin up a modern React app. TypeScript template was utilized
 - **Tailwind CSS:** CSS framework for rapid UI develeopment.
+- **Date-fns:** Simple date formatting
+
+## Notes
+
+If more time was allotted, I would have done some more organizing such as:
+
+- collected all types in separate directory
+- collected all minor/layout components in their own directory
+
+Styling improvements I would have made:
+
+- iconography for each weather list item
+- colors based on day/night and conditions
+
+Functional improvements:
+
+- utilize geolocation API for location field autofill
+- dark mode detection
 
 # Getting Started with Create React App
 
