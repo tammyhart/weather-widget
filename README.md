@@ -1,3 +1,12 @@
+# Realtime Weather Widget
+
+A basic weather fetching widget.
+
+## Included Packages
+
+- **Create React App:** A quick way to spin up a modern React app. TypeScript template was utilized
+- **Tailwind CSS:** CSS framework for rapid UI develeopment.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
